@@ -1,0 +1,13 @@
+FROM python:latest
+
+# poetryのインストールとパスの設定
+RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+ENV PATH="${PATH}:/root/.poetry/bin"
+
+# 仮想環境を作らない
+RUN poetry config virtualenvs.create false
+
+# コマンド補完機能(bash_completions)を有効化
+RUN apt update && apt install bash-completion
+RUN printf "\n# bash_completion\n. /usr/share/bash-completion/bash_completion\n" >> ~/.bashrc
+RUN poetry completions bash > /etc/bash_completion.d/poetry.bash-completion
