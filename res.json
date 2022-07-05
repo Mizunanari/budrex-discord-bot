@@ -1,0 +1,5066 @@
+[
+    {
+        "name": "pound",
+        "jp_name": "\u306f\u305f\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "karate-chop",
+        "jp_name": "\u304b\u3089\u3066\u30c1\u30e7\u30c3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "double-slap",
+        "jp_name": "\u304a\u3046\u3075\u304f\u30d3\u30f3\u30bf",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "comet-punch",
+        "jp_name": "\u308c\u3093\u305e\u304f\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mega-punch",
+        "jp_name": "\u30e1\u30ac\u30c8\u30f3\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "pay-day",
+        "jp_name": "\u30cd\u30b3\u306b\u3053\u3070\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fire-punch",
+        "jp_name": "\u307b\u306e\u304a\u306e\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "ice-punch",
+        "jp_name": "\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thunder-punch",
+        "jp_name": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "scratch",
+        "jp_name": "\u3072\u3063\u304b\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "vice-grip",
+        "jp_name": "\u306f\u3055\u3080",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "guillotine",
+        "jp_name": "\u30cf\u30b5\u30df\u30ae\u30ed\u30c1\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "razor-wind",
+        "jp_name": "\u304b\u307e\u3044\u305f\u3061",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "swords-dance",
+        "jp_name": "\u3064\u308b\u304e\u306e\u307e\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "cut",
+        "jp_name": "\u3044\u3042\u3044\u304e\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "gust",
+        "jp_name": "\u304b\u305c\u304a\u3053\u3057",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "wing-attack",
+        "jp_name": "\u3064\u3070\u3055\u3067\u3046\u3064",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "whirlwind",
+        "jp_name": "\u3075\u304d\u3068\u3070\u3057",
+        "damage_class": "status",
+        "priority": -6
+    },
+    {
+        "name": "fly",
+        "jp_name": "\u305d\u3089\u3092\u3068\u3076",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "bind",
+        "jp_name": "\u3057\u3081\u3064\u3051\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "slam",
+        "jp_name": "\u305f\u305f\u304d\u3064\u3051\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "vine-whip",
+        "jp_name": "\u3064\u308b\u306e\u30e0\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "stomp",
+        "jp_name": "\u3075\u307f\u3064\u3051",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "double-kick",
+        "jp_name": "\u306b\u3069\u3052\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mega-kick",
+        "jp_name": "\u30e1\u30ac\u30c8\u30f3\u30ad\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "jump-kick",
+        "jp_name": "\u3068\u3073\u3052\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "rolling-kick",
+        "jp_name": "\u307e\u308f\u3057\u3052\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sand-attack",
+        "jp_name": "\u3059\u306a\u304b\u3051",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "headbutt",
+        "jp_name": "\u305a\u3064\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "horn-attack",
+        "jp_name": "\u3064\u306e\u3067\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fury-attack",
+        "jp_name": "\u307f\u3060\u308c\u3065\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "horn-drill",
+        "jp_name": "\u3064\u306e\u30c9\u30ea\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "tackle",
+        "jp_name": "\u305f\u3044\u3042\u305f\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "body-slam",
+        "jp_name": "\u306e\u3057\u304b\u304b\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "wrap",
+        "jp_name": "\u307e\u304d\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "take-down",
+        "jp_name": "\u3068\u3063\u3057\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thrash",
+        "jp_name": "\u3042\u3070\u308c\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "double-edge",
+        "jp_name": "\u3059\u3066\u307f\u30bf\u30c3\u30af\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "tail-whip",
+        "jp_name": "\u3057\u3063\u307d\u3092\u3075\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "poison-sting",
+        "jp_name": "\u3069\u304f\u3070\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "twineedle",
+        "jp_name": "\u30c0\u30d6\u30eb\u30cb\u30fc\u30c9\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "pin-missile",
+        "jp_name": "\u30df\u30b5\u30a4\u30eb\u3070\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "leer",
+        "jp_name": "\u306b\u3089\u307f\u3064\u3051\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bite",
+        "jp_name": "\u304b\u307f\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "growl",
+        "jp_name": "\u306a\u304d\u3054\u3048",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "roar",
+        "jp_name": "\u307b\u3048\u308b",
+        "damage_class": "status",
+        "priority": -6
+    },
+    {
+        "name": "sing",
+        "jp_name": "\u3046\u305f\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "supersonic",
+        "jp_name": "\u3061\u3087\u3046\u304a\u3093\u3071",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sonic-boom",
+        "jp_name": "\u30bd\u30cb\u30c3\u30af\u30d6\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "disable",
+        "jp_name": "\u304b\u306a\u3057\u3070\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "acid",
+        "jp_name": "\u3088\u3046\u304b\u3044\u3048\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "ember",
+        "jp_name": "\u3072\u306e\u3053",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "flamethrower",
+        "jp_name": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mist",
+        "jp_name": "\u3057\u308d\u3044\u304d\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "water-gun",
+        "jp_name": "\u307f\u305a\u3067\u3063\u307d\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hydro-pump",
+        "jp_name": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "surf",
+        "jp_name": "\u306a\u307f\u306e\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "ice-beam",
+        "jp_name": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "blizzard",
+        "jp_name": "\u3075\u3076\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psybeam",
+        "jp_name": "\u30b5\u30a4\u30b1\u3053\u3046\u305b\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bubble-beam",
+        "jp_name": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "aurora-beam",
+        "jp_name": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hyper-beam",
+        "jp_name": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "peck",
+        "jp_name": "\u3064\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "drill-peck",
+        "jp_name": "\u30c9\u30ea\u30eb\u304f\u3061\u3070\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "submission",
+        "jp_name": "\u3058\u3054\u304f\u3050\u308b\u307e",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "low-kick",
+        "jp_name": "\u3051\u305f\u3050\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "counter",
+        "jp_name": "\u30ab\u30a6\u30f3\u30bf\u30fc",
+        "damage_class": "physical",
+        "priority": -5
+    },
+    {
+        "name": "seismic-toss",
+        "jp_name": "\u3061\u304d\u3085\u3046\u306a\u3052",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "strength",
+        "jp_name": "\u304b\u3044\u308a\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "absorb",
+        "jp_name": "\u3059\u3044\u3068\u308b",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mega-drain",
+        "jp_name": "\u30e1\u30ac\u30c9\u30ec\u30a4\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "leech-seed",
+        "jp_name": "\u3084\u3069\u308a\u304e\u306e\u30bf\u30cd",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "growth",
+        "jp_name": "\u305b\u3044\u3061\u3087\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "razor-leaf",
+        "jp_name": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "solar-beam",
+        "jp_name": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "poison-powder",
+        "jp_name": "\u3069\u304f\u306e\u3053\u306a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "stun-spore",
+        "jp_name": "\u3057\u3073\u308c\u3054\u306a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sleep-powder",
+        "jp_name": "\u306d\u3080\u308a\u3054\u306a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "petal-dance",
+        "jp_name": "\u306f\u306a\u3073\u3089\u306e\u307e\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "string-shot",
+        "jp_name": "\u3044\u3068\u3092\u306f\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "dragon-rage",
+        "jp_name": "\u308a\u3085\u3046\u306e\u3044\u304b\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fire-spin",
+        "jp_name": "\u307b\u306e\u304a\u306e\u3046\u305a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "thunder-shock",
+        "jp_name": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "thunderbolt",
+        "jp_name": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "thunder-wave",
+        "jp_name": "\u3067\u3093\u3058\u306f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "thunder",
+        "jp_name": "\u304b\u307f\u306a\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rock-throw",
+        "jp_name": "\u3044\u308f\u304a\u3068\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "earthquake",
+        "jp_name": "\u3058\u3057\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fissure",
+        "jp_name": "\u3058\u308f\u308c",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dig",
+        "jp_name": "\u3042\u306a\u3092\u307b\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "toxic",
+        "jp_name": "\u3069\u304f\u3069\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "confusion",
+        "jp_name": "\u306d\u3093\u308a\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psychic",
+        "jp_name": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hypnosis",
+        "jp_name": "\u3055\u3044\u307f\u3093\u3058\u3085\u3064",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "meditate",
+        "jp_name": "\u30e8\u30ac\u306e\u30dd\u30fc\u30ba",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "agility",
+        "jp_name": "\u3053\u3046\u305d\u304f\u3044\u3069\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "quick-attack",
+        "jp_name": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "rage",
+        "jp_name": "\u3044\u304b\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "teleport",
+        "jp_name": "\u30c6\u30ec\u30dd\u30fc\u30c8",
+        "damage_class": "status",
+        "priority": -6
+    },
+    {
+        "name": "night-shade",
+        "jp_name": "\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mimic",
+        "jp_name": "\u3082\u306e\u307e\u306d",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "screech",
+        "jp_name": "\u3044\u3084\u306a\u304a\u3068",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "double-team",
+        "jp_name": "\u304b\u3052\u3076\u3093\u3057\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "recover",
+        "jp_name": "\u3058\u3053\u3055\u3044\u305b\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "harden",
+        "jp_name": "\u304b\u305f\u304f\u306a\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "minimize",
+        "jp_name": "\u3061\u3044\u3055\u304f\u306a\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "smokescreen",
+        "jp_name": "\u3048\u3093\u307e\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "confuse-ray",
+        "jp_name": "\u3042\u3084\u3057\u3044\u3072\u304b\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "withdraw",
+        "jp_name": "\u304b\u3089\u306b\u3053\u3082\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "defense-curl",
+        "jp_name": "\u307e\u308b\u304f\u306a\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "barrier",
+        "jp_name": "\u30d0\u30ea\u30a2\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "light-screen",
+        "jp_name": "\u3072\u304b\u308a\u306e\u304b\u3079",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "haze",
+        "jp_name": "\u304f\u308d\u3044\u304d\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "reflect",
+        "jp_name": "\u30ea\u30d5\u30ec\u30af\u30bf\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "focus-energy",
+        "jp_name": "\u304d\u3042\u3044\u3060\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bide",
+        "jp_name": "\u304c\u307e\u3093",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "metronome",
+        "jp_name": "\u3086\u3073\u3092\u3075\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "mirror-move",
+        "jp_name": "\u30aa\u30a6\u30e0\u304c\u3048\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "self-destruct",
+        "jp_name": "\u3058\u3070\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "egg-bomb",
+        "jp_name": "\u30bf\u30de\u30b4\u3070\u304f\u3060\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "lick",
+        "jp_name": "\u3057\u305f\u3067\u306a\u3081\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "smog",
+        "jp_name": "\u30b9\u30e2\u30c3\u30b0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sludge",
+        "jp_name": "\u30d8\u30c9\u30ed\u3053\u3046\u3052\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bone-club",
+        "jp_name": "\u30db\u30cd\u3053\u3093\u307c\u3046",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fire-blast",
+        "jp_name": "\u3060\u3044\u3082\u3093\u3058",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "waterfall",
+        "jp_name": "\u305f\u304d\u306e\u307c\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "clamp",
+        "jp_name": "\u304b\u3089\u3067\u306f\u3055\u3080",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "swift",
+        "jp_name": "\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "skull-bash",
+        "jp_name": "\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spike-cannon",
+        "jp_name": "\u3068\u3052\u30ad\u30e3\u30ce\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "constrict",
+        "jp_name": "\u304b\u3089\u307f\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "amnesia",
+        "jp_name": "\u30c9\u308f\u3059\u308c",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "kinesis",
+        "jp_name": "\u30b9\u30d7\u30fc\u30f3\u307e\u3052",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "soft-boiled",
+        "jp_name": "\u30bf\u30de\u30b4\u3046\u307f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "high-jump-kick",
+        "jp_name": "\u3068\u3073\u3072\u3056\u3052\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "glare",
+        "jp_name": "\u3078\u3073\u306b\u3089\u307f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "dream-eater",
+        "jp_name": "\u3086\u3081\u304f\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "poison-gas",
+        "jp_name": "\u3069\u304f\u30ac\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "barrage",
+        "jp_name": "\u305f\u307e\u306a\u3052",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "leech-life",
+        "jp_name": "\u304d\u3085\u3046\u3051\u3064",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "lovely-kiss",
+        "jp_name": "\u3042\u304f\u307e\u306e\u30ad\u30c3\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sky-attack",
+        "jp_name": "\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "transform",
+        "jp_name": "\u3078\u3093\u3057\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bubble",
+        "jp_name": "\u3042\u308f",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dizzy-punch",
+        "jp_name": "\u30d4\u30e8\u30d4\u30e8\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spore",
+        "jp_name": "\u30ad\u30ce\u30b3\u306e\u307b\u3046\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flash",
+        "jp_name": "\u30d5\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "psywave",
+        "jp_name": "\u30b5\u30a4\u30b3\u30a6\u30a7\u30fc\u30d6",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "splash",
+        "jp_name": "\u306f\u306d\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "acid-armor",
+        "jp_name": "\u3068\u3051\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "crabhammer",
+        "jp_name": "\u30af\u30e9\u30d6\u30cf\u30f3\u30de\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "explosion",
+        "jp_name": "\u3060\u3044\u3070\u304f\u306f\u3064",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fury-swipes",
+        "jp_name": "\u307f\u3060\u308c\u3072\u3063\u304b\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "bonemerang",
+        "jp_name": "\u30db\u30cd\u30d6\u30fc\u30e1\u30e9\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "rest",
+        "jp_name": "\u306d\u3080\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "rock-slide",
+        "jp_name": "\u3044\u308f\u306a\u3060\u308c",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hyper-fang",
+        "jp_name": "\u3072\u3063\u3055\u3064\u307e\u3048\u3070",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sharpen",
+        "jp_name": "\u304b\u304f\u3070\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "conversion",
+        "jp_name": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "tri-attack",
+        "jp_name": "\u30c8\u30e9\u30a4\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "super-fang",
+        "jp_name": "\u3044\u304b\u308a\u306e\u307e\u3048\u3070",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "slash",
+        "jp_name": "\u304d\u308a\u3055\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "substitute",
+        "jp_name": "\u307f\u304c\u308f\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "struggle",
+        "jp_name": "\u308f\u308b\u3042\u304c\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sketch",
+        "jp_name": "\u30b9\u30b1\u30c3\u30c1",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "triple-kick",
+        "jp_name": "\u30c8\u30ea\u30d7\u30eb\u30ad\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thief",
+        "jp_name": "\u3069\u308d\u307c\u3046",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spider-web",
+        "jp_name": "\u30af\u30e2\u306e\u3059",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "mind-reader",
+        "jp_name": "\u3053\u3053\u308d\u306e\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "nightmare",
+        "jp_name": "\u3042\u304f\u3080",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flame-wheel",
+        "jp_name": "\u304b\u3048\u3093\u3050\u308b\u307e",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "snore",
+        "jp_name": "\u3044\u3073\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "curse",
+        "jp_name": "\u306e\u308d\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flail",
+        "jp_name": "\u3058\u305f\u3070\u305f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "conversion-2",
+        "jp_name": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc\uff12",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "aeroblast",
+        "jp_name": "\u30a8\u30a2\u30ed\u30d6\u30e9\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "cotton-spore",
+        "jp_name": "\u308f\u305f\u307b\u3046\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "reversal",
+        "jp_name": "\u304d\u3057\u304b\u3044\u305b\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spite",
+        "jp_name": "\u3046\u3089\u307f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "powder-snow",
+        "jp_name": "\u3053\u306a\u3086\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "protect",
+        "jp_name": "\u307e\u3082\u308b",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "mach-punch",
+        "jp_name": "\u30de\u30c3\u30cf\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "scary-face",
+        "jp_name": "\u3053\u308f\u3044\u304b\u304a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "feint-attack",
+        "jp_name": "\u3060\u307e\u3057\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sweet-kiss",
+        "jp_name": "\u3066\u3093\u3057\u306e\u30ad\u30c3\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "belly-drum",
+        "jp_name": "\u306f\u3089\u3060\u3044\u3053",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sludge-bomb",
+        "jp_name": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mud-slap",
+        "jp_name": "\u3069\u308d\u304b\u3051",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "octazooka",
+        "jp_name": "\u30aa\u30af\u30bf\u30f3\u307b\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "spikes",
+        "jp_name": "\u307e\u304d\u3073\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "zap-cannon",
+        "jp_name": "\u3067\u3093\u3058\u307b\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "foresight",
+        "jp_name": "\u307f\u3084\u3076\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "destiny-bond",
+        "jp_name": "\u307f\u3061\u3065\u308c",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "perish-song",
+        "jp_name": "\u307b\u308d\u3073\u306e\u3046\u305f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "icy-wind",
+        "jp_name": "\u3053\u3054\u3048\u308b\u304b\u305c",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "detect",
+        "jp_name": "\u307f\u304d\u308a",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "bone-rush",
+        "jp_name": "\u30dc\u30fc\u30f3\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "lock-on",
+        "jp_name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "outrage",
+        "jp_name": "\u3052\u304d\u308a\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sandstorm",
+        "jp_name": "\u3059\u306a\u3042\u3089\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "giga-drain",
+        "jp_name": "\u30ae\u30ac\u30c9\u30ec\u30a4\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "endure",
+        "jp_name": "\u3053\u3089\u3048\u308b",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "charm",
+        "jp_name": "\u3042\u307e\u3048\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "rollout",
+        "jp_name": "\u3053\u308d\u304c\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "false-swipe",
+        "jp_name": "\u307f\u306d\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "swagger",
+        "jp_name": "\u3044\u3070\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "milk-drink",
+        "jp_name": "\u30df\u30eb\u30af\u306e\u307f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "spark",
+        "jp_name": "\u30b9\u30d1\u30fc\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fury-cutter",
+        "jp_name": "\u308c\u3093\u305e\u304f\u304e\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "steel-wing",
+        "jp_name": "\u306f\u304c\u306d\u306e\u3064\u3070\u3055",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mean-look",
+        "jp_name": "\u304f\u308d\u3044\u307e\u306a\u3056\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "attract",
+        "jp_name": "\u30e1\u30ed\u30e1\u30ed",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sleep-talk",
+        "jp_name": "\u306d\u3054\u3068",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heal-bell",
+        "jp_name": "\u3044\u3084\u3057\u306e\u3059\u305a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "return",
+        "jp_name": "\u304a\u3093\u304c\u3048\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "present",
+        "jp_name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "frustration",
+        "jp_name": "\u3084\u3064\u3042\u305f\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "safeguard",
+        "jp_name": "\u3057\u3093\u3074\u306e\u307e\u3082\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "pain-split",
+        "jp_name": "\u3044\u305f\u307f\u308f\u3051",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sacred-fire",
+        "jp_name": "\u305b\u3044\u306a\u308b\u307b\u306e\u304a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "magnitude",
+        "jp_name": "\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dynamic-punch",
+        "jp_name": "\u3070\u304f\u308c\u3064\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "megahorn",
+        "jp_name": "\u30e1\u30ac\u30db\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dragon-breath",
+        "jp_name": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "baton-pass",
+        "jp_name": "\u30d0\u30c8\u30f3\u30bf\u30c3\u30c1",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "encore",
+        "jp_name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "pursuit",
+        "jp_name": "\u304a\u3044\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "rapid-spin",
+        "jp_name": "\u3053\u3046\u305d\u304f\u30b9\u30d4\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sweet-scent",
+        "jp_name": "\u3042\u307e\u3044\u304b\u304a\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "iron-tail",
+        "jp_name": "\u30a2\u30a4\u30a2\u30f3\u30c6\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "metal-claw",
+        "jp_name": "\u30e1\u30bf\u30eb\u30af\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "vital-throw",
+        "jp_name": "\u3042\u3066\u307f\u306a\u3052",
+        "damage_class": "physical",
+        "priority": -1
+    },
+    {
+        "name": "morning-sun",
+        "jp_name": "\u3042\u3055\u306e\u3072\u3056\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "synthesis",
+        "jp_name": "\u3053\u3046\u3054\u3046\u305b\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "moonlight",
+        "jp_name": "\u3064\u304d\u306e\u3072\u304b\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "hidden-power",
+        "jp_name": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "cross-chop",
+        "jp_name": "\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "twister",
+        "jp_name": "\u305f\u3064\u307e\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rain-dance",
+        "jp_name": "\u3042\u307e\u3054\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sunny-day",
+        "jp_name": "\u306b\u307b\u3093\u3070\u308c",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "crunch",
+        "jp_name": "\u304b\u307f\u304f\u3060\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mirror-coat",
+        "jp_name": "\u30df\u30e9\u30fc\u30b3\u30fc\u30c8",
+        "damage_class": "special",
+        "priority": -5
+    },
+    {
+        "name": "psych-up",
+        "jp_name": "\u3058\u3053\u3042\u3093\u3058",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "extreme-speed",
+        "jp_name": "\u3057\u3093\u305d\u304f",
+        "damage_class": "physical",
+        "priority": 2
+    },
+    {
+        "name": "ancient-power",
+        "jp_name": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-ball",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "future-sight",
+        "jp_name": "\u307f\u3089\u3044\u3088\u3061",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rock-smash",
+        "jp_name": "\u3044\u308f\u304f\u3060\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "whirlpool",
+        "jp_name": "\u3046\u305a\u3057\u304a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "beat-up",
+        "jp_name": "\u3075\u304f\u308d\u3060\u305f\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fake-out",
+        "jp_name": "\u306d\u3053\u3060\u307e\u3057",
+        "damage_class": "physical",
+        "priority": 3
+    },
+    {
+        "name": "uproar",
+        "jp_name": "\u3055\u308f\u3050",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "stockpile",
+        "jp_name": "\u305f\u304f\u308f\u3048\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "spit-up",
+        "jp_name": "\u306f\u304d\u3060\u3059",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "swallow",
+        "jp_name": "\u306e\u307f\u3053\u3080",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heat-wave",
+        "jp_name": "\u306d\u3063\u3077\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hail",
+        "jp_name": "\u3042\u3089\u308c",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "torment",
+        "jp_name": "\u3044\u3061\u3083\u3082\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flatter",
+        "jp_name": "\u304a\u3060\u3066\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "will-o-wisp",
+        "jp_name": "\u304a\u306b\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "memento",
+        "jp_name": "\u304a\u304d\u307f\u3084\u3052",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "facade",
+        "jp_name": "\u304b\u3089\u3052\u3093\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "focus-punch",
+        "jp_name": "\u304d\u3042\u3044\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": -3
+    },
+    {
+        "name": "smelling-salts",
+        "jp_name": "\u304d\u3064\u3051",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "follow-me",
+        "jp_name": "\u3053\u306e\u3086\u3073\u3068\u307e\u308c",
+        "damage_class": "status",
+        "priority": 2
+    },
+    {
+        "name": "nature-power",
+        "jp_name": "\u3057\u305c\u3093\u306e\u3061\u304b\u3089",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "charge",
+        "jp_name": "\u3058\u3085\u3046\u3067\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "taunt",
+        "jp_name": "\u3061\u3087\u3046\u306f\u3064",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "helping-hand",
+        "jp_name": "\u3066\u3060\u3059\u3051",
+        "damage_class": "status",
+        "priority": 5
+    },
+    {
+        "name": "trick",
+        "jp_name": "\u30c8\u30ea\u30c3\u30af",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "role-play",
+        "jp_name": "\u306a\u308a\u304d\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wish",
+        "jp_name": "\u306d\u304c\u3044\u3054\u3068",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "assist",
+        "jp_name": "\u306d\u3053\u306e\u3066",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "ingrain",
+        "jp_name": "\u306d\u3092\u306f\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "superpower",
+        "jp_name": "\u3070\u304b\u3062\u304b\u3089",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "magic-coat",
+        "jp_name": "\u30de\u30b8\u30c3\u30af\u30b3\u30fc\u30c8",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "recycle",
+        "jp_name": "\u30ea\u30b5\u30a4\u30af\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "revenge",
+        "jp_name": "\u30ea\u30d9\u30f3\u30b8",
+        "damage_class": "physical",
+        "priority": -4
+    },
+    {
+        "name": "brick-break",
+        "jp_name": "\u304b\u308f\u3089\u308f\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "yawn",
+        "jp_name": "\u3042\u304f\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "knock-off",
+        "jp_name": "\u306f\u305f\u304d\u304a\u3068\u3059",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "endeavor",
+        "jp_name": "\u304c\u3080\u3057\u3083\u3089",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "eruption",
+        "jp_name": "\u3075\u3093\u304b",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "skill-swap",
+        "jp_name": "\u30b9\u30ad\u30eb\u30b9\u30ef\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "imprison",
+        "jp_name": "\u3075\u3046\u3044\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "refresh",
+        "jp_name": "\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "grudge",
+        "jp_name": "\u304a\u3093\u306d\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "snatch",
+        "jp_name": "\u3088\u3053\u3069\u308a",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "secret-power",
+        "jp_name": "\u3072\u307f\u3064\u306e\u3061\u304b\u3089",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dive",
+        "jp_name": "\u30c0\u30a4\u30d3\u30f3\u30b0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "arm-thrust",
+        "jp_name": "\u3064\u3063\u3071\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "camouflage",
+        "jp_name": "\u307b\u3054\u3057\u3087\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "tail-glow",
+        "jp_name": "\u307b\u305f\u308b\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "luster-purge",
+        "jp_name": "\u30e9\u30b9\u30bf\u30fc\u30d1\u30fc\u30b8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mist-ball",
+        "jp_name": "\u30df\u30b9\u30c8\u30dc\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "feather-dance",
+        "jp_name": "\u30d5\u30a7\u30b6\u30fc\u30c0\u30f3\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "teeter-dance",
+        "jp_name": "\u30d5\u30e9\u30d5\u30e9\u30c0\u30f3\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "blaze-kick",
+        "jp_name": "\u30d6\u30ec\u30a4\u30ba\u30ad\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mud-sport",
+        "jp_name": "\u3069\u308d\u3042\u305d\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "ice-ball",
+        "jp_name": "\u30a2\u30a4\u30b9\u30dc\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "needle-arm",
+        "jp_name": "\u30cb\u30fc\u30c9\u30eb\u30a2\u30fc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "slack-off",
+        "jp_name": "\u306a\u307e\u3051\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "hyper-voice",
+        "jp_name": "\u30cf\u30a4\u30d1\u30fc\u30dc\u30a4\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "poison-fang",
+        "jp_name": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "crush-claw",
+        "jp_name": "\u30d6\u30ec\u30a4\u30af\u30af\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "blast-burn",
+        "jp_name": "\u30d6\u30e9\u30b9\u30c8\u30d0\u30fc\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hydro-cannon",
+        "jp_name": "\u30cf\u30a4\u30c9\u30ed\u30ab\u30ce\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "meteor-mash",
+        "jp_name": "\u30b3\u30e1\u30c3\u30c8\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "astonish",
+        "jp_name": "\u304a\u3069\u308d\u304b\u3059",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "weather-ball",
+        "jp_name": "\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "aromatherapy",
+        "jp_name": "\u30a2\u30ed\u30de\u30bb\u30e9\u30d4\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "fake-tears",
+        "jp_name": "\u3046\u305d\u306a\u304d",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "air-cutter",
+        "jp_name": "\u30a8\u30a2\u30ab\u30c3\u30bf\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "overheat",
+        "jp_name": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "odor-sleuth",
+        "jp_name": "\u304b\u304e\u308f\u3051\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "rock-tomb",
+        "jp_name": "\u304c\u3093\u305b\u304d\u3075\u3046\u3058",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "silver-wind",
+        "jp_name": "\u304e\u3093\u3044\u308d\u306e\u304b\u305c",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "metal-sound",
+        "jp_name": "\u304d\u3093\u305e\u304f\u304a\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "grass-whistle",
+        "jp_name": "\u304f\u3055\u3076\u3048",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "tickle",
+        "jp_name": "\u304f\u3059\u3050\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "cosmic-power",
+        "jp_name": "\u30b3\u30b9\u30e2\u30d1\u30ef\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "water-spout",
+        "jp_name": "\u3057\u304a\u3075\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "signal-beam",
+        "jp_name": "\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-punch",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "extrasensory",
+        "jp_name": "\u3058\u3093\u3064\u3046\u308a\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sky-uppercut",
+        "jp_name": "\u30b9\u30ab\u30a4\u30a2\u30c3\u30d1\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sand-tomb",
+        "jp_name": "\u3059\u306a\u3058\u3054\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sheer-cold",
+        "jp_name": "\u305c\u3063\u305f\u3044\u308c\u3044\u3069",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "muddy-water",
+        "jp_name": "\u3060\u304f\u308a\u3085\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bullet-seed",
+        "jp_name": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aerial-ace",
+        "jp_name": "\u3064\u3070\u3081\u304c\u3048\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "icicle-spear",
+        "jp_name": "\u3064\u3089\u3089\u3070\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "iron-defense",
+        "jp_name": "\u3066\u3063\u307a\u304d",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "block",
+        "jp_name": "\u3068\u304a\u305b\u3093\u307c\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "howl",
+        "jp_name": "\u3068\u304a\u307c\u3048",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "dragon-claw",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "frenzy-plant",
+        "jp_name": "\u30cf\u30fc\u30c9\u30d7\u30e9\u30f3\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bulk-up",
+        "jp_name": "\u30d3\u30eb\u30c9\u30a2\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bounce",
+        "jp_name": "\u3068\u3073\u306f\u306d\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mud-shot",
+        "jp_name": "\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "poison-tail",
+        "jp_name": "\u30dd\u30a4\u30ba\u30f3\u30c6\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "covet",
+        "jp_name": "\u307b\u3057\u304c\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "volt-tackle",
+        "jp_name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "magical-leaf",
+        "jp_name": "\u30de\u30b8\u30ab\u30eb\u30ea\u30fc\u30d5",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "water-sport",
+        "jp_name": "\u307f\u305a\u3042\u305d\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "calm-mind",
+        "jp_name": "\u3081\u3044\u305d\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "leaf-blade",
+        "jp_name": "\u30ea\u30fc\u30d5\u30d6\u30ec\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dragon-dance",
+        "jp_name": "\u308a\u3085\u3046\u306e\u307e\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "rock-blast",
+        "jp_name": "\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shock-wave",
+        "jp_name": "\u3067\u3093\u3052\u304d\u306f",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "water-pulse",
+        "jp_name": "\u307f\u305a\u306e\u306f\u3069\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "doom-desire",
+        "jp_name": "\u306f\u3081\u3064\u306e\u306d\u304c\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psycho-boost",
+        "jp_name": "\u30b5\u30a4\u30b3\u30d6\u30fc\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "roost",
+        "jp_name": "\u306f\u306d\u3084\u3059\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "gravity",
+        "jp_name": "\u3058\u3085\u3046\u308a\u3087\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "miracle-eye",
+        "jp_name": "\u30df\u30e9\u30af\u30eb\u30a2\u30a4",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wake-up-slap",
+        "jp_name": "\u3081\u3056\u307e\u3057\u30d3\u30f3\u30bf",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hammer-arm",
+        "jp_name": "\u30a2\u30fc\u30e0\u30cf\u30f3\u30de\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "gyro-ball",
+        "jp_name": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "healing-wish",
+        "jp_name": "\u3044\u3084\u3057\u306e\u306d\u304c\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "brine",
+        "jp_name": "\u3057\u304a\u307f\u305a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "natural-gift",
+        "jp_name": "\u3057\u305c\u3093\u306e\u3081\u3050\u307f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "feint",
+        "jp_name": "\u30d5\u30a7\u30a4\u30f3\u30c8",
+        "damage_class": "physical",
+        "priority": 2
+    },
+    {
+        "name": "pluck",
+        "jp_name": "\u3064\u3044\u3070\u3080",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "tailwind",
+        "jp_name": "\u304a\u3044\u304b\u305c",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "acupressure",
+        "jp_name": "\u3064\u307c\u3092\u3064\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "metal-burst",
+        "jp_name": "\u30e1\u30bf\u30eb\u30d0\u30fc\u30b9\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "u-turn",
+        "jp_name": "\u3068\u3093\u307c\u304c\u3048\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "close-combat",
+        "jp_name": "\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "payback",
+        "jp_name": "\u3057\u3063\u307a\u304c\u3048\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "assurance",
+        "jp_name": "\u30c0\u30e1\u304a\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "embargo",
+        "jp_name": "\u3055\u3057\u304a\u3055\u3048",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "fling",
+        "jp_name": "\u306a\u3052\u3064\u3051\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "psycho-shift",
+        "jp_name": "\u30b5\u30a4\u30b3\u30b7\u30d5\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "trump-card",
+        "jp_name": "\u304d\u308a\u3075\u3060",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "heal-block",
+        "jp_name": "\u304b\u3044\u3075\u304f\u3075\u3046\u3058",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wring-out",
+        "jp_name": "\u3057\u307c\u308a\u3068\u308b",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "power-trick",
+        "jp_name": "\u30d1\u30ef\u30fc\u30c8\u30ea\u30c3\u30af",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "gastro-acid",
+        "jp_name": "\u3044\u3048\u304d",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "lucky-chant",
+        "jp_name": "\u304a\u307e\u3058\u306a\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "me-first",
+        "jp_name": "\u3055\u304d\u3069\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "copycat",
+        "jp_name": "\u307e\u306d\u3063\u3053",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "power-swap",
+        "jp_name": "\u30d1\u30ef\u30fc\u30b9\u30ef\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "guard-swap",
+        "jp_name": "\u30ac\u30fc\u30c9\u30b9\u30ef\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "punishment",
+        "jp_name": "\u304a\u3057\u304a\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "last-resort",
+        "jp_name": "\u3068\u3063\u3066\u304a\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "worry-seed",
+        "jp_name": "\u306a\u3084\u307f\u306e\u30bf\u30cd",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sucker-punch",
+        "jp_name": "\u3075\u3044\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "toxic-spikes",
+        "jp_name": "\u3069\u304f\u3073\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heart-swap",
+        "jp_name": "\u30cf\u30fc\u30c8\u30b9\u30ef\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "aqua-ring",
+        "jp_name": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "magnet-rise",
+        "jp_name": "\u3067\u3093\u3058\u3075\u3086\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flare-blitz",
+        "jp_name": "\u30d5\u30ec\u30a2\u30c9\u30e9\u30a4\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "force-palm",
+        "jp_name": "\u306f\u3063\u3051\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aura-sphere",
+        "jp_name": "\u306f\u3069\u3046\u3060\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rock-polish",
+        "jp_name": "\u30ed\u30c3\u30af\u30ab\u30c3\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "poison-jab",
+        "jp_name": "\u3069\u304f\u3065\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dark-pulse",
+        "jp_name": "\u3042\u304f\u306e\u306f\u3069\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "night-slash",
+        "jp_name": "\u3064\u3058\u304e\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aqua-tail",
+        "jp_name": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "seed-bomb",
+        "jp_name": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "air-slash",
+        "jp_name": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "x-scissor",
+        "jp_name": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "bug-buzz",
+        "jp_name": "\u3080\u3057\u306e\u3055\u3056\u3081\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dragon-pulse",
+        "jp_name": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dragon-rush",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30c0\u30a4\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "power-gem",
+        "jp_name": "\u30d1\u30ef\u30fc\u30b8\u30a7\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "drain-punch",
+        "jp_name": "\u30c9\u30ec\u30a4\u30f3\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "vacuum-wave",
+        "jp_name": "\u3057\u3093\u304f\u3046\u306f",
+        "damage_class": "special",
+        "priority": 1
+    },
+    {
+        "name": "focus-blast",
+        "jp_name": "\u304d\u3042\u3044\u3060\u307e",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "energy-ball",
+        "jp_name": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "brave-bird",
+        "jp_name": "\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "earth-power",
+        "jp_name": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "switcheroo",
+        "jp_name": "\u3059\u308a\u304b\u3048",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "giga-impact",
+        "jp_name": "\u30ae\u30ac\u30a4\u30f3\u30d1\u30af\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "nasty-plot",
+        "jp_name": "\u308f\u308b\u3060\u304f\u307f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bullet-punch",
+        "jp_name": "\u30d0\u30ec\u30c3\u30c8\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "avalanche",
+        "jp_name": "\u3086\u304d\u306a\u3060\u308c",
+        "damage_class": "physical",
+        "priority": -4
+    },
+    {
+        "name": "ice-shard",
+        "jp_name": "\u3053\u304a\u308a\u306e\u3064\u3076\u3066",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "shadow-claw",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thunder-fang",
+        "jp_name": "\u304b\u307f\u306a\u308a\u306e\u30ad\u30d0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "ice-fang",
+        "jp_name": "\u3053\u304a\u308a\u306e\u30ad\u30d0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fire-fang",
+        "jp_name": "\u307b\u306e\u304a\u306e\u30ad\u30d0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-sneak",
+        "jp_name": "\u304b\u3052\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "mud-bomb",
+        "jp_name": "\u3069\u308d\u3070\u304f\u3060\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psycho-cut",
+        "jp_name": "\u30b5\u30a4\u30b3\u30ab\u30c3\u30bf\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "zen-headbutt",
+        "jp_name": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mirror-shot",
+        "jp_name": "\u30df\u30e9\u30fc\u30b7\u30e7\u30c3\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "flash-cannon",
+        "jp_name": "\u30e9\u30b9\u30bf\u30fc\u30ab\u30ce\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rock-climb",
+        "jp_name": "\u30ed\u30c3\u30af\u30af\u30e9\u30a4\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "defog",
+        "jp_name": "\u304d\u308a\u3070\u3089\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "trick-room",
+        "jp_name": "\u30c8\u30ea\u30c3\u30af\u30eb\u30fc\u30e0",
+        "damage_class": "status",
+        "priority": -7
+    },
+    {
+        "name": "draco-meteor",
+        "jp_name": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "discharge",
+        "jp_name": "\u307b\u3046\u3067\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "lava-plume",
+        "jp_name": "\u3075\u3093\u3048\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "leaf-storm",
+        "jp_name": "\u30ea\u30fc\u30d5\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "power-whip",
+        "jp_name": "\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "rock-wrecker",
+        "jp_name": "\u304c\u3093\u305b\u304d\u307b\u3046",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "cross-poison",
+        "jp_name": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "gunk-shot",
+        "jp_name": "\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "iron-head",
+        "jp_name": "\u30a2\u30a4\u30a2\u30f3\u30d8\u30c3\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "magnet-bomb",
+        "jp_name": "\u30de\u30b0\u30cd\u30c3\u30c8\u30dc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "stone-edge",
+        "jp_name": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "captivate",
+        "jp_name": "\u3086\u3046\u308f\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "stealth-rock",
+        "jp_name": "\u30b9\u30c6\u30eb\u30b9\u30ed\u30c3\u30af",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "grass-knot",
+        "jp_name": "\u304f\u3055\u3080\u3059\u3073",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "chatter",
+        "jp_name": "\u304a\u3057\u3083\u3079\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "judgment",
+        "jp_name": "\u3055\u3070\u304d\u306e\u3064\u3076\u3066",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bug-bite",
+        "jp_name": "\u3080\u3057\u304f\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "charge-beam",
+        "jp_name": "\u30c1\u30e3\u30fc\u30b8\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "wood-hammer",
+        "jp_name": "\u30a6\u30c3\u30c9\u30cf\u30f3\u30de\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aqua-jet",
+        "jp_name": "\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "attack-order",
+        "jp_name": "\u3053\u3046\u3052\u304d\u3057\u308c\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "defend-order",
+        "jp_name": "\u307c\u3046\u304e\u3087\u3057\u308c\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heal-order",
+        "jp_name": "\u304b\u3044\u3075\u304f\u3057\u308c\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "head-smash",
+        "jp_name": "\u3082\u308d\u306f\u306e\u305a\u3064\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "double-hit",
+        "jp_name": "\u30c0\u30d6\u30eb\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "roar-of-time",
+        "jp_name": "\u3068\u304d\u306e\u307b\u3046\u3053\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "spacial-rend",
+        "jp_name": "\u3042\u304f\u3046\u305b\u3064\u3060\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "lunar-dance",
+        "jp_name": "\u307f\u304b\u3065\u304d\u306e\u307e\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "crush-grip",
+        "jp_name": "\u306b\u304e\u308a\u3064\u3076\u3059",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "magma-storm",
+        "jp_name": "\u30de\u30b0\u30de\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dark-void",
+        "jp_name": "\u30c0\u30fc\u30af\u30db\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "seed-flare",
+        "jp_name": "\u30b7\u30fc\u30c9\u30d5\u30ec\u30a2",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "ominous-wind",
+        "jp_name": "\u3042\u3084\u3057\u3044\u304b\u305c",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-force",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30c0\u30a4\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hone-claws",
+        "jp_name": "\u3064\u3081\u3068\u304e",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wide-guard",
+        "jp_name": "\u30ef\u30a4\u30c9\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 3
+    },
+    {
+        "name": "guard-split",
+        "jp_name": "\u30ac\u30fc\u30c9\u30b7\u30a7\u30a2",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "power-split",
+        "jp_name": "\u30d1\u30ef\u30fc\u30b7\u30a7\u30a2",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wonder-room",
+        "jp_name": "\u30ef\u30f3\u30c0\u30fc\u30eb\u30fc\u30e0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "psyshock",
+        "jp_name": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "venoshock",
+        "jp_name": "\u30d9\u30ce\u30e0\u30b7\u30e7\u30c3\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "autotomize",
+        "jp_name": "\u30dc\u30c7\u30a3\u30d1\u30fc\u30b8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "rage-powder",
+        "jp_name": "\u3044\u304b\u308a\u306e\u3053\u306a",
+        "damage_class": "status",
+        "priority": 2
+    },
+    {
+        "name": "telekinesis",
+        "jp_name": "\u30c6\u30ec\u30ad\u30cd\u30b7\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "magic-room",
+        "jp_name": "\u30de\u30b8\u30c3\u30af\u30eb\u30fc\u30e0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "smack-down",
+        "jp_name": "\u3046\u3061\u304a\u3068\u3059",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "storm-throw",
+        "jp_name": "\u3084\u307e\u3042\u3089\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "flame-burst",
+        "jp_name": "\u306f\u3058\u3051\u308b\u307b\u306e\u304a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sludge-wave",
+        "jp_name": "\u30d8\u30c9\u30ed\u30a6\u30a7\u30fc\u30d6",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "quiver-dance",
+        "jp_name": "\u3061\u3087\u3046\u306e\u307e\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heavy-slam",
+        "jp_name": "\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "synchronoise",
+        "jp_name": "\u30b7\u30f3\u30af\u30ed\u30ce\u30a4\u30ba",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "electro-ball",
+        "jp_name": "\u30a8\u30ec\u30ad\u30dc\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "soak",
+        "jp_name": "\u307f\u305a\u3073\u305f\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flame-charge",
+        "jp_name": "\u30cb\u30c8\u30ed\u30c1\u30e3\u30fc\u30b8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "coil",
+        "jp_name": "\u3068\u3050\u308d\u3092\u307e\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "low-sweep",
+        "jp_name": "\u30ed\u30fc\u30ad\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "acid-spray",
+        "jp_name": "\u30a2\u30b7\u30c3\u30c9\u30dc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "foul-play",
+        "jp_name": "\u30a4\u30ab\u30b5\u30de",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "simple-beam",
+        "jp_name": "\u30b7\u30f3\u30d7\u30eb\u30d3\u30fc\u30e0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "entrainment",
+        "jp_name": "\u306a\u304b\u307e\u3065\u304f\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "after-you",
+        "jp_name": "\u304a\u3055\u304d\u306b\u3069\u3046\u305e",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "round",
+        "jp_name": "\u308a\u3093\u3057\u3087\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "echoed-voice",
+        "jp_name": "\u30a8\u30b3\u30fc\u30dc\u30a4\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "chip-away",
+        "jp_name": "\u306a\u3057\u304f\u305a\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "clear-smog",
+        "jp_name": "\u30af\u30ea\u30a2\u30b9\u30e2\u30c3\u30b0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "stored-power",
+        "jp_name": "\u30a2\u30b7\u30b9\u30c8\u30d1\u30ef\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "quick-guard",
+        "jp_name": "\u30d5\u30a1\u30b9\u30c8\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 3
+    },
+    {
+        "name": "ally-switch",
+        "jp_name": "\u30b5\u30a4\u30c9\u30c1\u30a7\u30f3\u30b8",
+        "damage_class": "status",
+        "priority": 2
+    },
+    {
+        "name": "scald",
+        "jp_name": "\u306d\u3063\u3068\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shell-smash",
+        "jp_name": "\u304b\u3089\u3092\u3084\u3076\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "heal-pulse",
+        "jp_name": "\u3044\u3084\u3057\u306e\u306f\u3069\u3046",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "hex",
+        "jp_name": "\u305f\u305f\u308a\u3081",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sky-drop",
+        "jp_name": "\u30d5\u30ea\u30fc\u30d5\u30a9\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shift-gear",
+        "jp_name": "\u30ae\u30a2\u30c1\u30a7\u30f3\u30b8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "circle-throw",
+        "jp_name": "\u3068\u3082\u3048\u306a\u3052",
+        "damage_class": "physical",
+        "priority": -6
+    },
+    {
+        "name": "incinerate",
+        "jp_name": "\u3084\u304d\u3064\u304f\u3059",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "quash",
+        "jp_name": "\u3055\u304d\u304a\u304f\u308a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "acrobatics",
+        "jp_name": "\u30a2\u30af\u30ed\u30d0\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "reflect-type",
+        "jp_name": "\u30df\u30e9\u30fc\u30bf\u30a4\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "retaliate",
+        "jp_name": "\u304b\u305f\u304d\u3046\u3061",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "final-gambit",
+        "jp_name": "\u3044\u306e\u3061\u304c\u3051",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bestow",
+        "jp_name": "\u30ae\u30d5\u30c8\u30d1\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "inferno",
+        "jp_name": "\u308c\u3093\u3054\u304f",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "water-pledge",
+        "jp_name": "\u307f\u305a\u306e\u3061\u304b\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fire-pledge",
+        "jp_name": "\u307b\u306e\u304a\u306e\u3061\u304b\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "grass-pledge",
+        "jp_name": "\u304f\u3055\u306e\u3061\u304b\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "volt-switch",
+        "jp_name": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "struggle-bug",
+        "jp_name": "\u3080\u3057\u306e\u3066\u3044\u3053\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bulldoze",
+        "jp_name": "\u3058\u306a\u3089\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "frost-breath",
+        "jp_name": "\u3053\u304a\u308a\u306e\u3044\u3076\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dragon-tail",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": -6
+    },
+    {
+        "name": "work-up",
+        "jp_name": "\u3075\u308b\u3044\u305f\u3066\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "electroweb",
+        "jp_name": "\u30a8\u30ec\u30ad\u30cd\u30c3\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "wild-charge",
+        "jp_name": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "drill-run",
+        "jp_name": "\u30c9\u30ea\u30eb\u30e9\u30a4\u30ca\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dual-chop",
+        "jp_name": "\u30c0\u30d6\u30eb\u30c1\u30e7\u30c3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "heart-stamp",
+        "jp_name": "\u30cf\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "horn-leech",
+        "jp_name": "\u30a6\u30c3\u30c9\u30db\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sacred-sword",
+        "jp_name": "\u305b\u3044\u306a\u308b\u3064\u308b\u304e",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "razor-shell",
+        "jp_name": "\u30b7\u30a7\u30eb\u30d6\u30ec\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "heat-crash",
+        "jp_name": "\u30d2\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "leaf-tornado",
+        "jp_name": "\u30b0\u30e9\u30b9\u30df\u30ad\u30b5\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "steamroller",
+        "jp_name": "\u30cf\u30fc\u30c9\u30ed\u30fc\u30e9\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "cotton-guard",
+        "jp_name": "\u30b3\u30c3\u30c8\u30f3\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "night-daze",
+        "jp_name": "\u30ca\u30a4\u30c8\u30d0\u30fc\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psystrike",
+        "jp_name": "\u30b5\u30a4\u30b3\u30d6\u30ec\u30a4\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "tail-slap",
+        "jp_name": "\u30b9\u30a4\u30fc\u30d7\u30d3\u30f3\u30bf",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hurricane",
+        "jp_name": "\u307c\u3046\u3075\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "head-charge",
+        "jp_name": "\u30a2\u30d5\u30ed\u30d6\u30ec\u30a4\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "gear-grind",
+        "jp_name": "\u30ae\u30a2\u30bd\u30fc\u30b5\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "searing-shot",
+        "jp_name": "\u304b\u3048\u3093\u3060\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "techno-blast",
+        "jp_name": "\u30c6\u30af\u30ce\u30d0\u30b9\u30bf\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "relic-song",
+        "jp_name": "\u3044\u306b\u3057\u3048\u306e\u3046\u305f",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "secret-sword",
+        "jp_name": "\u3057\u3093\u3074\u306e\u3064\u308b\u304e",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "glaciate",
+        "jp_name": "\u3053\u3054\u3048\u308b\u305b\u304b\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bolt-strike",
+        "jp_name": "\u3089\u3044\u3052\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "blue-flare",
+        "jp_name": "\u3042\u304a\u3044\u307b\u306e\u304a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fiery-dance",
+        "jp_name": "\u307b\u306e\u304a\u306e\u307e\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "freeze-shock",
+        "jp_name": "\u30d5\u30ea\u30fc\u30ba\u30dc\u30eb\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "ice-burn",
+        "jp_name": "\u30b3\u30fc\u30eb\u30c9\u30d5\u30ec\u30a2",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "snarl",
+        "jp_name": "\u30d0\u30fc\u30af\u30a2\u30a6\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "icicle-crash",
+        "jp_name": "\u3064\u3089\u3089\u304a\u3068\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "v-create",
+        "jp_name": "\uff36\u30b8\u30a7\u30cd\u30ec\u30fc\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fusion-flare",
+        "jp_name": "\u30af\u30ed\u30b9\u30d5\u30ec\u30a4\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fusion-bolt",
+        "jp_name": "\u30af\u30ed\u30b9\u30b5\u30f3\u30c0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "flying-press",
+        "jp_name": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d7\u30ec\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "mat-block",
+        "jp_name": "\u305f\u305f\u307f\u304c\u3048\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "belch",
+        "jp_name": "\u30b2\u30c3\u30d7",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "rototiller",
+        "jp_name": "\u305f\u304c\u3084\u3059",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sticky-web",
+        "jp_name": "\u306d\u3070\u306d\u3070\u30cd\u30c3\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "fell-stinger",
+        "jp_name": "\u3068\u3069\u3081\u3070\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "phantom-force",
+        "jp_name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "trick-or-treat",
+        "jp_name": "\u30cf\u30ed\u30a6\u30a3\u30f3",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "noble-roar",
+        "jp_name": "\u304a\u305f\u3051\u3073",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "ion-deluge",
+        "jp_name": "\u30d7\u30e9\u30ba\u30de\u30b7\u30e3\u30ef\u30fc",
+        "damage_class": "status",
+        "priority": 1
+    },
+    {
+        "name": "parabolic-charge",
+        "jp_name": "\u30d1\u30e9\u30dc\u30e9\u30c1\u30e3\u30fc\u30b8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "forests-curse",
+        "jp_name": "\u3082\u308a\u306e\u306e\u308d\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "petal-blizzard",
+        "jp_name": "\u306f\u306a\u3075\u3076\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "freeze-dry",
+        "jp_name": "\u30d5\u30ea\u30fc\u30ba\u30c9\u30e9\u30a4",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "disarming-voice",
+        "jp_name": "\u30c1\u30e3\u30fc\u30e0\u30dc\u30a4\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "parting-shot",
+        "jp_name": "\u3059\u3066\u30bc\u30ea\u30d5",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "topsy-turvy",
+        "jp_name": "\u3072\u3063\u304f\u308a\u304b\u3048\u3059",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "draining-kiss",
+        "jp_name": "\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "crafty-shield",
+        "jp_name": "\u30c8\u30ea\u30c3\u30af\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 3
+    },
+    {
+        "name": "flower-shield",
+        "jp_name": "\u30d5\u30e9\u30ef\u30fc\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "grassy-terrain",
+        "jp_name": "\u30b0\u30e9\u30b9\u30d5\u30a3\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "misty-terrain",
+        "jp_name": "\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "electrify",
+        "jp_name": "\u305d\u3046\u3067\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "play-rough",
+        "jp_name": "\u3058\u3083\u308c\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fairy-wind",
+        "jp_name": "\u3088\u3046\u305b\u3044\u306e\u304b\u305c",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "moonblast",
+        "jp_name": "\u30e0\u30fc\u30f3\u30d5\u30a9\u30fc\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "boomburst",
+        "jp_name": "\u3070\u304f\u304a\u3093\u3071",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fairy-lock",
+        "jp_name": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30ed\u30c3\u30af",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "kings-shield",
+        "jp_name": "\u30ad\u30f3\u30b0\u30b7\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "play-nice",
+        "jp_name": "\u306a\u304b\u3088\u304f\u3059\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "confide",
+        "jp_name": "\u306a\u3044\u3057\u3087\u3070\u306a\u3057",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "diamond-storm",
+        "jp_name": "\u30c0\u30a4\u30e4\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "steam-eruption",
+        "jp_name": "\u30b9\u30c1\u30fc\u30e0\u30d0\u30fc\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hyperspace-hole",
+        "jp_name": "\u3044\u3058\u3052\u3093\u30db\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "water-shuriken",
+        "jp_name": "\u307f\u305a\u3057\u3085\u308a\u3051\u3093",
+        "damage_class": "special",
+        "priority": 1
+    },
+    {
+        "name": "mystical-fire",
+        "jp_name": "\u30de\u30b8\u30ab\u30eb\u30d5\u30ec\u30a4\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "spiky-shield",
+        "jp_name": "\u30cb\u30fc\u30c9\u30eb\u30ac\u30fc\u30c9",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "aromatic-mist",
+        "jp_name": "\u30a2\u30ed\u30de\u30df\u30b9\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "eerie-impulse",
+        "jp_name": "\u304b\u3044\u3067\u3093\u3071",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "venom-drench",
+        "jp_name": "\u30d9\u30ce\u30e0\u30c8\u30e9\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "powder",
+        "jp_name": "\u3075\u3093\u3058\u3093",
+        "damage_class": "status",
+        "priority": 1
+    },
+    {
+        "name": "geomancy",
+        "jp_name": "\u30b8\u30aa\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "magnetic-flux",
+        "jp_name": "\u3058\u3070\u305d\u3046\u3055",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "happy-hour",
+        "jp_name": "\u30cf\u30c3\u30d4\u30fc\u30bf\u30a4\u30e0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "electric-terrain",
+        "jp_name": "\u30a8\u30ec\u30ad\u30d5\u30a3\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "dazzling-gleam",
+        "jp_name": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "celebrate",
+        "jp_name": "\u304a\u3044\u308f\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "hold-hands",
+        "jp_name": "\u3066\u3092\u3064\u306a\u3050",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "baby-doll-eyes",
+        "jp_name": "\u3064\u3076\u3089\u306a\u3072\u3068\u307f",
+        "damage_class": "status",
+        "priority": 1
+    },
+    {
+        "name": "nuzzle",
+        "jp_name": "\u307b\u3063\u307a\u3059\u308a\u3059\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hold-back",
+        "jp_name": "\u3066\u304b\u3052\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "infestation",
+        "jp_name": "\u307e\u3068\u308f\u308a\u3064\u304f",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "power-up-punch",
+        "jp_name": "\u30b0\u30ed\u30a6\u30d1\u30f3\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "oblivion-wing",
+        "jp_name": "\u30c7\u30b9\u30a6\u30a4\u30f3\u30b0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "thousand-arrows",
+        "jp_name": "\u30b5\u30a6\u30b6\u30f3\u30a2\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thousand-waves",
+        "jp_name": "\u30b5\u30a6\u30b6\u30f3\u30a6\u30a7\u30fc\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "lands-wrath",
+        "jp_name": "\u30b0\u30e9\u30f3\u30c9\u30d5\u30a9\u30fc\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "light-of-ruin",
+        "jp_name": "\u306f\u3081\u3064\u306e\u3072\u304b\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "origin-pulse",
+        "jp_name": "\u3053\u3093\u3052\u3093\u306e\u306f\u3069\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "precipice-blades",
+        "jp_name": "\u3060\u3093\u304c\u3044\u306e\u3064\u308b\u304e",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dragon-ascent",
+        "jp_name": "\u30ac\u30ea\u30e7\u30a6\u30c6\u30f3\u30bb\u30a4",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hyperspace-fury",
+        "jp_name": "\u3044\u3058\u3052\u3093\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "breakneck-blitz--physical",
+        "jp_name": "\u30a6\u30eb\u30c8\u30e9\u30c0\u30c3\u30b7\u30e5\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "breakneck-blitz--special",
+        "jp_name": "\u30a6\u30eb\u30c8\u30e9\u30c0\u30c3\u30b7\u30e5\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "all-out-pummeling--physical",
+        "jp_name": "\u305c\u3093\u308a\u3087\u304f\u3080\u305d\u3046\u3052\u304d\u308c\u3064\u3051\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "all-out-pummeling--special",
+        "jp_name": "\u305c\u3093\u308a\u3087\u304f\u3080\u305d\u3046\u3052\u304d\u308c\u3064\u3051\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "supersonic-skystrike--physical",
+        "jp_name": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30c0\u30a4\u30d6\u30af\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "supersonic-skystrike--special",
+        "jp_name": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30c0\u30a4\u30d6\u30af\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "acid-downpour--physical",
+        "jp_name": "\u30a2\u30b7\u30c3\u30c9\u30dd\u30a4\u30ba\u30f3\u30c7\u30ea\u30fc\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "acid-downpour--special",
+        "jp_name": "\u30a2\u30b7\u30c3\u30c9\u30dd\u30a4\u30ba\u30f3\u30c7\u30ea\u30fc\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "tectonic-rage--physical",
+        "jp_name": "\u30e9\u30a4\u30b8\u30f3\u30b0\u30e9\u30f3\u30c9\u30aa\u30fc\u30d0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "tectonic-rage--special",
+        "jp_name": "\u30e9\u30a4\u30b8\u30f3\u30b0\u30e9\u30f3\u30c9\u30aa\u30fc\u30d0\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "continental-crush--physical",
+        "jp_name": "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30d5\u30a9\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "continental-crush--special",
+        "jp_name": "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30d5\u30a9\u30fc\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "savage-spin-out--physical",
+        "jp_name": "\u305c\u3063\u305f\u3044\u307b\u3057\u3087\u304f\u304b\u3044\u3066\u3093\u3056\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "savage-spin-out--special",
+        "jp_name": "\u305c\u3063\u305f\u3044\u307b\u3057\u3087\u304f\u304b\u3044\u3066\u3093\u3056\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "never-ending-nightmare--physical",
+        "jp_name": "\u3080\u3052\u3093\u3042\u3093\u3084\u3078\u306e\u3044\u3056\u306a\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "never-ending-nightmare--special",
+        "jp_name": "\u3080\u3052\u3093\u3042\u3093\u3084\u3078\u306e\u3044\u3056\u306a\u3044",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "corkscrew-crash--physical",
+        "jp_name": "\u3061\u3087\u3046\u305c\u3064\u3089\u305b\u3093\u308c\u3093\u3052\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "corkscrew-crash--special",
+        "jp_name": "\u3061\u3087\u3046\u305c\u3064\u3089\u305b\u3093\u308c\u3093\u3052\u304d",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "inferno-overdrive--physical",
+        "jp_name": "\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u30d5\u30eb\u30d5\u30ec\u30a4\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "inferno-overdrive--special",
+        "jp_name": "\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u30d5\u30eb\u30d5\u30ec\u30a4\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "hydro-vortex--physical",
+        "jp_name": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30af\u30a2\u30c8\u30eb\u30cd\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "hydro-vortex--special",
+        "jp_name": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30af\u30a2\u30c8\u30eb\u30cd\u30fc\u30c9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bloom-doom--physical",
+        "jp_name": "\u30d6\u30eb\u30fc\u30e0\u30b7\u30e3\u30a4\u30f3\u30a8\u30af\u30b9\u30c8\u30e9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "bloom-doom--special",
+        "jp_name": "\u30d6\u30eb\u30fc\u30e0\u30b7\u30e3\u30a4\u30f3\u30a8\u30af\u30b9\u30c8\u30e9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "gigavolt-havoc--physical",
+        "jp_name": "\u30b9\u30d1\u30fc\u30ad\u30f3\u30b0\u30ae\u30ac\u30dc\u30eb\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "gigavolt-havoc--special",
+        "jp_name": "\u30b9\u30d1\u30fc\u30ad\u30f3\u30b0\u30ae\u30ac\u30dc\u30eb\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shattered-psyche--physical",
+        "jp_name": "\u30de\u30ad\u30b7\u30de\u30e0\u30b5\u30a4\u30d6\u30ec\u30a4\u30ab\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shattered-psyche--special",
+        "jp_name": "\u30de\u30ad\u30b7\u30de\u30e0\u30b5\u30a4\u30d6\u30ec\u30a4\u30ab\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "subzero-slammer--physical",
+        "jp_name": "\u30ec\u30a4\u30b8\u30f3\u30b0\u30b8\u30aa\u30d5\u30ea\u30fc\u30ba",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "subzero-slammer--special",
+        "jp_name": "\u30ec\u30a4\u30b8\u30f3\u30b0\u30b8\u30aa\u30d5\u30ea\u30fc\u30ba",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "devastating-drake--physical",
+        "jp_name": "\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\u30c9\u30e9\u30b4\u30f3\u30d0\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "devastating-drake--special",
+        "jp_name": "\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\u30c9\u30e9\u30b4\u30f3\u30d0\u30fc\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "black-hole-eclipse--physical",
+        "jp_name": "\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb\u30a4\u30af\u30ea\u30d7\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "black-hole-eclipse--special",
+        "jp_name": "\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb\u30a4\u30af\u30ea\u30d7\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "twinkle-tackle--physical",
+        "jp_name": "\u30e9\u30d6\u30ea\u30fc\u30b9\u30bf\u30fc\u30a4\u30f3\u30d1\u30af\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "twinkle-tackle--special",
+        "jp_name": "\u30e9\u30d6\u30ea\u30fc\u30b9\u30bf\u30fc\u30a4\u30f3\u30d1\u30af\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "catastropika",
+        "jp_name": "\u3072\u3063\u3055\u3064\u306e\u30d4\u30ab\u30c1\u30e5\u30fc\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shore-up",
+        "jp_name": "\u3059\u306a\u3042\u3064\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "first-impression",
+        "jp_name": "\u3067\u3042\u3044\u304c\u3057\u3089",
+        "damage_class": "physical",
+        "priority": 2
+    },
+    {
+        "name": "baneful-bunker",
+        "jp_name": "\u30c8\u30fc\u30c1\u30ab",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "spirit-shackle",
+        "jp_name": "\u304b\u3052\u306c\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "darkest-lariat",
+        "jp_name": "\uff24\uff24\u30e9\u30ea\u30a2\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sparkling-aria",
+        "jp_name": "\u3046\u305f\u304b\u305f\u306e\u30a2\u30ea\u30a2",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "ice-hammer",
+        "jp_name": "\u30a2\u30a4\u30b9\u30cf\u30f3\u30de\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "floral-healing",
+        "jp_name": "\u30d5\u30e9\u30ef\u30fc\u30d2\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "high-horsepower",
+        "jp_name": "\uff11\uff10\u307e\u3093\u3070\u308a\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "strength-sap",
+        "jp_name": "\u3061\u304b\u3089\u3092\u3059\u3044\u3068\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "solar-blade",
+        "jp_name": "\u30bd\u30fc\u30e9\u30fc\u30d6\u30ec\u30fc\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "leafage",
+        "jp_name": "\u3053\u306e\u306f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spotlight",
+        "jp_name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8",
+        "damage_class": "status",
+        "priority": 3
+    },
+    {
+        "name": "toxic-thread",
+        "jp_name": "\u3069\u304f\u306e\u3044\u3068",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "laser-focus",
+        "jp_name": "\u3068\u304e\u3059\u307e\u3059",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "gear-up",
+        "jp_name": "\u30a2\u30b7\u30b9\u30c8\u30ae\u30a2",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "throat-chop",
+        "jp_name": "\u3058\u3054\u304f\u3065\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "pollen-puff",
+        "jp_name": "\u304b\u3075\u3093\u3060\u3093\u3054",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "anchor-shot",
+        "jp_name": "\u30a2\u30f3\u30ab\u30fc\u30b7\u30e7\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "psychic-terrain",
+        "jp_name": "\u30b5\u30a4\u30b3\u30d5\u30a3\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "lunge",
+        "jp_name": "\u3068\u3073\u304b\u304b\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fire-lash",
+        "jp_name": "\u307b\u306e\u304a\u306e\u30e0\u30c1",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "power-trip",
+        "jp_name": "\u3064\u3051\u3042\u304c\u308b",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "burn-up",
+        "jp_name": "\u3082\u3048\u3064\u304d\u308b",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "speed-swap",
+        "jp_name": "\u30b9\u30d4\u30fc\u30c9\u30b9\u30ef\u30c3\u30d7",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "smart-strike",
+        "jp_name": "\u30b9\u30de\u30fc\u30c8\u30db\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "purify",
+        "jp_name": "\u3058\u3087\u3046\u304b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "revelation-dance",
+        "jp_name": "\u3081\u3056\u3081\u308b\u30c0\u30f3\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "core-enforcer",
+        "jp_name": "\u30b3\u30a2\u30d1\u30cb\u30c3\u30b7\u30e3\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "trop-kick",
+        "jp_name": "\u30c8\u30ed\u30d4\u30ab\u30eb\u30ad\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "instruct",
+        "jp_name": "\u3055\u3044\u306f\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "beak-blast",
+        "jp_name": "\u304f\u3061\u3070\u3057\u30ad\u30e3\u30ce\u30f3",
+        "damage_class": "physical",
+        "priority": -3
+    },
+    {
+        "name": "clanging-scales",
+        "jp_name": "\u30b9\u30b1\u30a4\u30eb\u30ce\u30a4\u30ba",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dragon-hammer",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30cf\u30f3\u30de\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "brutal-swing",
+        "jp_name": "\u3076\u3093\u307e\u308f\u3059",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aurora-veil",
+        "jp_name": "\u30aa\u30fc\u30ed\u30e9\u30d9\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "sinister-arrow-raid",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30a2\u30ed\u30fc\u30ba\u30b9\u30c8\u30e9\u30a4\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "malicious-moonsault",
+        "jp_name": "\u30cf\u30a4\u30d1\u30fc\u30c0\u30fc\u30af\u30af\u30e9\u30c3\u30b7\u30e3\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "oceanic-operetta",
+        "jp_name": "\u308f\u3060\u3064\u307f\u306e\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "guardian-of-alola",
+        "jp_name": "\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3\u30fb\u30c7\u30fb\u30a2\u30ed\u30fc\u30e9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "soul-stealing-7-star-strike",
+        "jp_name": "\u3057\u3061\u305b\u3044\u3060\u3063\u3053\u3093\u305f\u3044",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "stoked-sparksurfer",
+        "jp_name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30b5\u30fc\u30d5\u30e9\u30a4\u30c9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "pulverizing-pancake",
+        "jp_name": "\u307b\u3093\u304d\u3092\u3060\u3059\u3000\u3053\u3046\u3052\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "extreme-evoboost",
+        "jp_name": "\u30ca\u30a4\u30f3\u30a8\u30dc\u30eb\u30d6\u30fc\u30b9\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "genesis-supernova",
+        "jp_name": "\u30aa\u30ea\u30b8\u30f3\u30ba\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shell-trap",
+        "jp_name": "\u30c8\u30e9\u30c3\u30d7\u30b7\u30a7\u30eb",
+        "damage_class": "special",
+        "priority": -3
+    },
+    {
+        "name": "fleur-cannon",
+        "jp_name": "\u30d5\u30eb\u30fc\u30eb\u30ab\u30ce\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "psychic-fangs",
+        "jp_name": "\u30b5\u30a4\u30b3\u30d5\u30a1\u30f3\u30b0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "stomping-tantrum",
+        "jp_name": "\u3058\u3060\u3093\u3060",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-bone",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "accelerock",
+        "jp_name": "\u30a2\u30af\u30bb\u30eb\u30ed\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 1
+    },
+    {
+        "name": "liquidation",
+        "jp_name": "\u30a2\u30af\u30a2\u30d6\u30ec\u30a4\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "prismatic-laser",
+        "jp_name": "\u30d7\u30ea\u30ba\u30e0\u30ec\u30fc\u30b6\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "spectral-thief",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30b9\u30c1\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "sunsteel-strike",
+        "jp_name": "\u30e1\u30c6\u30aa\u30c9\u30e9\u30a4\u30d6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "moongeist-beam",
+        "jp_name": "\u30b7\u30e3\u30c9\u30fc\u30ec\u30a4",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "tearful-look",
+        "jp_name": "\u306a\u307f\u3060\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "zing-zap",
+        "jp_name": "\u3073\u308a\u3073\u308a\u3061\u304f\u3061\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "natures-madness",
+        "jp_name": "\u3057\u305c\u3093\u306e\u3044\u304b\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "multi-attack",
+        "jp_name": "\u30de\u30eb\u30c1\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "10-000-000-volt-thunderbolt",
+        "jp_name": "\uff11\uff10\uff10\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "mind-blown",
+        "jp_name": "\u30d3\u30c3\u30af\u30ea\u30d8\u30c3\u30c9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "plasma-fists",
+        "jp_name": "\u30d7\u30e9\u30ba\u30de\u30d5\u30a3\u30b9\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "photon-geyser",
+        "jp_name": "\u30d5\u30a9\u30c8\u30f3\u30b2\u30a4\u30b6\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "light-that-burns-the-sky",
+        "jp_name": "\u3066\u3093\u3053\u304c\u3059\u3081\u3064\u307c\u3046\u306e\u3072\u304b\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "searing-sunraze-smash",
+        "jp_name": "\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30b9\u30de\u30c3\u30b7\u30e3\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "menacing-moonraze-maelstrom",
+        "jp_name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "lets-snuggle-forever",
+        "jp_name": "\u307d\u304b\u307c\u304b\u30d5\u30ec\u30f3\u30c9\u30bf\u30a4\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "splintered-stormshards",
+        "jp_name": "\u30e9\u30b8\u30a2\u30eb\u30a8\u30c3\u30b8\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "clangorous-soulblaze",
+        "jp_name": "\u30d6\u30ec\u30a4\u30b8\u30f3\u30b0\u30bd\u30a6\u30eb\u30d3\u30fc\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "zippy-zap",
+        "jp_name": "\u3070\u3061\u3070\u3061\u30a2\u30af\u30bb\u30eb",
+        "damage_class": "physical",
+        "priority": 2
+    },
+    {
+        "name": "splishy-splash",
+        "jp_name": "\u3056\u3076\u3056\u3076\u30b5\u30fc\u30d5",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "floaty-fall",
+        "jp_name": "\u3075\u308f\u3075\u308f\u30d5\u30a9\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "pika-papow",
+        "jp_name": "\u30d4\u30ab\u30d4\u30ab\u30b5\u30f3\u30c0\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "bouncy-bubble",
+        "jp_name": "\u3044\u304d\u3044\u304d\u30d0\u30d6\u30eb",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "buzzy-buzz",
+        "jp_name": "\u3073\u308a\u3073\u308a\u30a8\u30ec\u30ad",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sizzly-slide",
+        "jp_name": "\u3081\u3089\u3081\u3089\u30d0\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "glitzy-glow",
+        "jp_name": "\u3069\u3070\u3069\u3070\u30aa\u30fc\u30e9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "baddy-bad",
+        "jp_name": "\u308f\u308b\u308f\u308b\u30be\u30fc\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sappy-seed",
+        "jp_name": "\u3059\u304f\u3059\u304f\u30dc\u30f3\u30d0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "freezy-frost",
+        "jp_name": "\u3053\u3061\u3053\u3061\u30d5\u30ed\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "sparkly-swirl",
+        "jp_name": "\u304d\u3089\u304d\u3089\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "veevee-volley",
+        "jp_name": "\u30d6\u30a4\u30d6\u30a4\u30d6\u30ec\u30a4\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "double-iron-bash",
+        "jp_name": "\u30c0\u30d6\u30eb\u30d1\u30f3\u30c4\u30a1\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-guard",
+        "jp_name": "\u30c0\u30a4\u30a6\u30a9\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "dynamax-cannon",
+        "jp_name": "\u30c0\u30a4\u30de\u30c3\u30af\u30b9\u307b\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "snipe-shot",
+        "jp_name": "\u306d\u3089\u3044\u3046\u3061",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "jaw-lock",
+        "jp_name": "\u304f\u3089\u3044\u3064\u304f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "stuff-cheeks",
+        "jp_name": "\u307b\u304a\u3070\u308b",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "no-retreat",
+        "jp_name": "\u306f\u3044\u3059\u3044\u306e\u3058\u3093",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "tar-shot",
+        "jp_name": "\u30bf\u30fc\u30eb\u30b7\u30e7\u30c3\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "magic-powder",
+        "jp_name": "\u307e\u307b\u3046\u306e\u3053\u306a",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "dragon-darts",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30a2\u30ed\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "teatime",
+        "jp_name": "\u304a\u3061\u3083\u304b\u3044",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "octolock",
+        "jp_name": "\u305f\u3053\u304c\u305f\u3081",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "bolt-beak",
+        "jp_name": "\u3067\u3093\u3052\u304d\u304f\u3061\u3070\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "fishious-rend",
+        "jp_name": "\u30a8\u30e9\u304c\u307f",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "court-change",
+        "jp_name": "\u30b3\u30fc\u30c8\u30c1\u30a7\u30f3\u30b8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "max-flare",
+        "jp_name": "\u30c0\u30a4\u30d0\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-flutterby",
+        "jp_name": "\u30c0\u30a4\u30ef\u30fc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-lightning",
+        "jp_name": "\u30c0\u30a4\u30b5\u30f3\u30c0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-strike",
+        "jp_name": "\u30c0\u30a4\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-knuckle",
+        "jp_name": "\u30c0\u30a4\u30ca\u30c3\u30af\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-phantasm",
+        "jp_name": "\u30c0\u30a4\u30db\u30ed\u30a6",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-hailstorm",
+        "jp_name": "\u30c0\u30a4\u30a2\u30a4\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-ooze",
+        "jp_name": "\u30c0\u30a4\u30a2\u30b7\u30c3\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-geyser",
+        "jp_name": "\u30c0\u30a4\u30b9\u30c8\u30ea\u30fc\u30e0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-airstream",
+        "jp_name": "\u30c0\u30a4\u30b8\u30a7\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-starfall",
+        "jp_name": "\u30c0\u30a4\u30d5\u30a7\u30a2\u30ea\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-wyrmwind",
+        "jp_name": "\u30c0\u30a4\u30c9\u30e9\u30b0\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-mindstorm",
+        "jp_name": "\u30c0\u30a4\u30b5\u30a4\u30b3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-rockfall",
+        "jp_name": "\u30c0\u30a4\u30ed\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-quake",
+        "jp_name": "\u30c0\u30a4\u30a2\u30fc\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-darkness",
+        "jp_name": "\u30c0\u30a4\u30a2\u30fc\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-overgrowth",
+        "jp_name": "\u30c0\u30a4\u30bd\u30a6\u30b2\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "max-steelspike",
+        "jp_name": "\u30c0\u30a4\u30b9\u30c1\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "clangorous-soul",
+        "jp_name": "\u30bd\u30a6\u30eb\u30d3\u30fc\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "body-press",
+        "jp_name": "\u30dc\u30c7\u30a3\u30d7\u30ec\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "decorate",
+        "jp_name": "\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "drum-beating",
+        "jp_name": "\u30c9\u30e9\u30e0\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "snap-trap",
+        "jp_name": "\u30c8\u30e9\u30d0\u30b5\u30df",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "pyro-ball",
+        "jp_name": "\u304b\u3048\u3093\u30dc\u30fc\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "behemoth-blade",
+        "jp_name": "\u304d\u3087\u3058\u3085\u3046\u3056\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "behemoth-bash",
+        "jp_name": "\u304d\u3087\u3058\u3085\u3046\u3060\u3093",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "aura-wheel",
+        "jp_name": "\u30aa\u30fc\u30e9\u3050\u308b\u307e",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "breaking-swipe",
+        "jp_name": "\u30ef\u30a4\u30c9\u30d6\u30ec\u30a4\u30ab\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "branch-poke",
+        "jp_name": "\u3048\u3060\u3065\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "overdrive",
+        "jp_name": "\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "apple-acid",
+        "jp_name": "\u308a\u3093\u3054\u3055\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "grav-apple",
+        "jp_name": "\uff27\u306e\u3061\u304b\u3089",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "spirit-break",
+        "jp_name": "\u30bd\u30a6\u30eb\u30af\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "strange-steam",
+        "jp_name": "\u30ef\u30f3\u30c0\u30fc\u30b9\u30c1\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "life-dew",
+        "jp_name": "\u3044\u306e\u3061\u306e\u3057\u305a\u304f",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "obstruct",
+        "jp_name": "\u30d6\u30ed\u30c3\u30ad\u30f3\u30b0",
+        "damage_class": "status",
+        "priority": 4
+    },
+    {
+        "name": "false-surrender",
+        "jp_name": "\u3069\u3052\u3056\u3064\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "meteor-assault",
+        "jp_name": "\u30b9\u30bf\u30fc\u30a2\u30b5\u30eb\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "eternabeam",
+        "jp_name": "\u30e0\u30b2\u30f3\u30c0\u30a4\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "steel-beam",
+        "jp_name": "\u3066\u3063\u3066\u3044\u3053\u3046\u305b\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "expanding-force",
+        "jp_name": "\u30ef\u30a4\u30c9\u30d5\u30a9\u30fc\u30b9",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "steel-roller",
+        "jp_name": "\u30a2\u30a4\u30a2\u30f3\u30ed\u30fc\u30e9\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "scale-shot",
+        "jp_name": "\u30b9\u30b1\u30a4\u30eb\u30b7\u30e7\u30c3\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "meteor-beam",
+        "jp_name": "\u30e1\u30c6\u30aa\u30d3\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shell-side-arm",
+        "jp_name": "\u30b7\u30a7\u30eb\u30a2\u30fc\u30e0\u30ba",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "misty-explosion",
+        "jp_name": "\u30df\u30b9\u30c8\u30d0\u30fc\u30b9\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "grassy-glide",
+        "jp_name": "\u30b0\u30e9\u30b9\u30b9\u30e9\u30a4\u30c0\u30fc",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "rising-voltage",
+        "jp_name": "\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "terrain-pulse",
+        "jp_name": "\u3060\u3044\u3061\u306e\u306f\u3069\u3046",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "skitter-smack",
+        "jp_name": "\u306f\u3044\u3088\u308b\u3044\u3061\u3052\u304d",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "burning-jealousy",
+        "jp_name": "\u3057\u3063\u3068\u306e\u307b\u306e\u304a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "lash-out",
+        "jp_name": "\u3046\u3063\u3077\u3093\u3070\u3089\u3057",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "poltergeist",
+        "jp_name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "corrosive-gas",
+        "jp_name": "\u3075\u3057\u3087\u304f\u30ac\u30b9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "coaching",
+        "jp_name": "\u30b3\u30fc\u30c1\u30f3\u30b0",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "flip-turn",
+        "jp_name": "\u30af\u30a4\u30c3\u30af\u30bf\u30fc\u30f3",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "triple-axel",
+        "jp_name": "\u30c8\u30ea\u30d7\u30eb\u30a2\u30af\u30bb\u30eb",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "dual-wingbeat",
+        "jp_name": "\u30c0\u30d6\u30eb\u30a6\u30a4\u30f3\u30b0",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "scorching-sands",
+        "jp_name": "\u306d\u3063\u3055\u306e\u3060\u3044\u3061",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "jungle-healing",
+        "jp_name": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30d2\u30fc\u30eb",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "wicked-blow",
+        "jp_name": "\u3042\u3093\u3053\u304f\u304d\u3087\u3046\u3060",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "surging-strikes",
+        "jp_name": "\u3059\u3044\u308a\u3085\u3046\u308c\u3093\u3060",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "thunder-cage",
+        "jp_name": "\u30b5\u30f3\u30c0\u30fc\u30d7\u30ea\u30ba\u30f3",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "dragon-energy",
+        "jp_name": "\u30c9\u30e9\u30b4\u30f3\u30a8\u30ca\u30b8\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "freezing-glare",
+        "jp_name": "\u3044\u3066\u3064\u304f\u3057\u305b\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "fiery-wrath",
+        "jp_name": "\u3082\u3048\u3042\u304c\u308b\u3044\u304b\u308a",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "thunderous-kick",
+        "jp_name": "\u3089\u3044\u3081\u3044\u3052\u308a",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "glacial-lance",
+        "jp_name": "\u30d6\u30ea\u30b6\u30fc\u30c9\u30e9\u30f3\u30b9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "astral-barrage",
+        "jp_name": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30d3\u30c3\u30c8",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "eerie-spell",
+        "jp_name": "\u3076\u304d\u307f\u306a\u3058\u3085\u3082\u3093",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-rush",
+        "jp_name": "\u30c0\u30fc\u30af\u30e9\u30c3\u30b7\u30e5",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-blast",
+        "jp_name": "\u30c0\u30fc\u30af\u30d6\u30e9\u30b9\u30c8",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-blitz",
+        "jp_name": "\u30c0\u30fc\u30af\u30a2\u30bf\u30c3\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-bolt",
+        "jp_name": "\u30c0\u30fc\u30af\u30b5\u30f3\u30c0\u30fc",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-break",
+        "jp_name": "\u30c0\u30fc\u30af\u30d6\u30ec\u30a4\u30af",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-chill",
+        "jp_name": "\u30c0\u30fc\u30af\u30d5\u30ea\u30fc\u30ba",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-end",
+        "jp_name": "\u30c0\u30fc\u30af\u30a8\u30f3\u30c9",
+        "damage_class": "physical",
+        "priority": 0
+    },
+    {
+        "name": "shadow-fire",
+        "jp_name": "\u30c0\u30fc\u30af\u30d5\u30a1\u30a4\u30a2",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-rave",
+        "jp_name": "\u30c0\u30fc\u30af\u30ec\u30a4\u30d6",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-storm",
+        "jp_name": "\u30c0\u30fc\u30af\u30b9\u30c8\u30fc\u30e0",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-wave",
+        "jp_name": "\u30c0\u30fc\u30af\u30a6\u30a7\u30fc\u30d6",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-down",
+        "jp_name": "\u30c0\u30fc\u30af\u30c0\u30a6\u30f3",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "shadow-half",
+        "jp_name": "\u30c0\u30fc\u30af\u30cf\u30fc\u30d5",
+        "damage_class": "special",
+        "priority": 0
+    },
+    {
+        "name": "shadow-hold",
+        "jp_name": "\u30c0\u30fc\u30af\u30db\u30fc\u30eb\u30c9",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "shadow-mist",
+        "jp_name": "\u30c0\u30fc\u30af\u30df\u30b9\u30c8",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "shadow-panic",
+        "jp_name": "\u30c0\u30fc\u30af\u30d1\u30cb\u30c3\u30af",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "shadow-shed",
+        "jp_name": "\u30c0\u30fc\u30af\u30ea\u30e0\u30fc\u30d6",
+        "damage_class": "status",
+        "priority": 0
+    },
+    {
+        "name": "shadow-sky",
+        "jp_name": "\u30c0\u30fc\u30af\u30a6\u30a7\u30b6\u30fc",
+        "damage_class": "status",
+        "priority": 0
+    }
+]
