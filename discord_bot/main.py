@@ -16,10 +16,12 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    move = get_moves(message.content)
-
-    if move[0]:
-        if isMoveSuccess(move[1]["priority"], move[1]["damage_class"]):
+    try:
+        damage_class, priority = get_moves(message.content)
+    except ValueError:
+        pass
+    else:
+        if isMoveSuccess(priority, damage_class):
             await message.channel.send("バドレックスはたおれた")
         else:
             await message.channel.send("しかしうまくきまらなかった")

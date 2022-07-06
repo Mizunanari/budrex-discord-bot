@@ -13,14 +13,11 @@ def get_moves(message: str):
     for move in moves:
         jname: str = move.get("jp_name", "")
         if re.match(jname, message):
-            category: str = move.get("damage_class", "")
+            damage_class: str = move.get("damage_class", "")
             priority: int = move.get("priority", 0)
-            return (
-                True,
-                {"jp_name": jname, "damage_class": category, "priority": priority},
-            )
+            return (damage_class, priority)
 
-    return (False, {})
+    raise ValueError("not find move")
 
 
 def isMoveSuccess(priority, damage_class) -> bool:
@@ -28,7 +25,7 @@ def isMoveSuccess(priority, damage_class) -> bool:
     if priority >= 2:
         return False
 
-    if not damage_class == "status":
+    if not damage_class == "physical":
         return False
 
     return True

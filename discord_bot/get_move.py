@@ -11,15 +11,11 @@ name = iter(arlm.names)
 
 
 while True:
-
     temp: dict[str, Any] = {}
-
     try:
         temp["name"] = next(name)
-
     except StopIteration:
         break
-
     move.append(temp)
 
 
