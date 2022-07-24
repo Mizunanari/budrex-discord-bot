@@ -1,18 +1,42 @@
-# discordpy project template
+# ふいうちbot
 
+ポケモンの技をチャンネルに投稿すると、投稿された技が攻撃技でない場合と技の優先度が条件を満たさない場合に「しかしうまくきまらなかった」と投稿される。そうでない場合は、「（ユーザー名）はたおおれた」と投稿するbot。
 
-## button実装にあたって
+ポケモンの技データは[PokéAPI](https://pokeapi.co/)から取得している。
 
-2022/7/3現在、下記の通り
+```text
+.
+├── README.md
+├── discord_bot
+│   ├── env.py
+│   ├── get_move.py     # PokeAPIから、技データを取得するスクリプト
+│   ├── main.py
+│   └── moves.py        # 技の判定を行う
+├── doc
+├── poetry.lock
+├── pyproject.toml
+└── res.json            # ./discord_bot/get_move.pyにて取得した技データ
+```
 
-[PyPl]([discord.py · PyPI](https://pypi.org/project/discord.py/))
-version 1.7.3
+## 実行コマンド
 
-[discord.py - github](https://github.com/Rapptz/discord.py)
-version 2.0.0a
-
-buttonを実装する機能が2.0.0より実装されているため、discordpyは開発バージョンまであげる必要がある。
+プロジェクトルートで実行すること。
 
 ```bash
-poetry add git+https://github.com/Rapptz/discord.py
+python discord_bot/main.py
+```
+
+APIデータ取得コマンド
+
+```bash
+python discord_bot/get_move.py
+```
+
+## poetryについて
+
+poetryを使用している。サーバーなどで環境を構築する際はこちら。
+
+```bash
+poetry install
+poetry shell
 ```
