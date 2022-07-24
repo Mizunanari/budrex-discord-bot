@@ -22,7 +22,7 @@ async def on_message(message):
         pass
     else:
         if isMoveSuccess(priority, damage_class):
-            await message.channel.send("バドレックスはたおれた")
+            await message.channel.send(message.author.name + "はたおれた")
         else:
             await message.channel.send("しかしうまくきまらなかった")
 
